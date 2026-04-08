@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: PlanetImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4906639705994699660
+  m_GuidHigh: 4185971368122505393
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4684680035809395135
+      m_GuidHigh: 790359874837875336
+    m_SerializedTextureGuid:
+      m_GuidLow: 5918864518942584642
+      m_GuidHigh: 5659529854405837466
+    m_Size: {x: 0.1, y: 0.07811159}
+    m_SpecifySize: 1
+    m_Name: Earth
+    m_Texture: {fileID: 2800000, guid: a53c6f4207eb52249a0294c76ab08a4e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5315174236894049144
+      m_GuidHigh: 5054601665969822612
+    m_SerializedTextureGuid:
+      m_GuidLow: 10418224817994108537
+      m_GuidHigh: 10819133910355491049
+    m_Size: {x: 0.1, y: 0.08716921}
+    m_SpecifySize: 1
+    m_Name: Mars
+    m_Texture: {fileID: 2800000, guid: 1ab28e79f8469094e9381f20f8482596, type: 3}
